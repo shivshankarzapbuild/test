@@ -2,7 +2,11 @@
 
 function add($a,$b){
 
-    return 0;
+    return a+b;
+}
+
+function subtract($a,$b){
+    return $a-$b;
 }
 
 ?>
