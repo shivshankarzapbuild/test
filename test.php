@@ -18,4 +18,6 @@ function divide($a,$b){
     return $a/$b;
 }
 
+echo add(5645,4564);
+
 ?>
